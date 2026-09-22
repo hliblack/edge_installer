@@ -16,9 +16,9 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `153.0.4234.48` | 174.09 MB | `f16c89ec0d403c80...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/68a21a94-07d6-4fe2-ac8d-60228b2a9fe5?P1=1790364126&P2=404&P3=2&P4=GLwTbSVE1WDU%2f0CN0tLI379hOI%2fE2o%2b0lRM9wGAki1DEA3EbuA5Sk7%2bucxEKApruolSugKkpfFIhxcaDVETcRw%3d%3d) |
-| **x64** | `153.0.4234.48` | 197.08 MB | `f07d1d6a66a273cc...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09d0d57d-9c67-417f-862b-c320ebd981ff?P1=1790364126&P2=404&P3=2&P4=bMTnpmKN0xve6XtiNgr2RhIIa242S0KCl5GIanpBq4wxjHdVUXGFpQ1fMf4JW746Fuz8l38NxqWCQ0HX2afZMw%3d%3d) |
-| **ARM64** | `153.0.4234.48` | 200.51 MB | `c761728cfea077e5...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3b082131-7389-4eea-8376-cc4b2a65edd1?P1=1790364127&P2=404&P3=2&P4=hID4K4y3ZijEyL5jOZhUKiAnZ0nkvfJUyDEan2Ipm9NWbnydfCIU8zaXQur2vRpq%2fC%2fdqiu%2bNijE5edQNppb5A%3d%3d) |
+| **x86** | `153.0.4234.48` | 174.09 MB | `f16c89ec0d403c80...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/68a21a94-07d6-4fe2-ac8d-60228b2a9fe5?P1=1790710039&P2=404&P3=2&P4=FaeyKCkfYPbH3ERG8sH9jAdmoCSS3npYn4%2bIVQ3XQDN%2bPPpzWhn4pZC6oOv%2bnWw00Dh3T%2fpyC%2fvT47cy4wfB6A%3d%3d) |
+| **x64** | `153.0.4234.48` | 197.08 MB | `f07d1d6a66a273cc...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09d0d57d-9c67-417f-862b-c320ebd981ff?P1=1790710039&P2=404&P3=2&P4=jn%2ffDeBlwY4Ot%2fE2%2fKAwS4P0GajI2LwsmJ9FDahfowBVuYUJu6YyvJkPmAyGKYWjsfcSovVC9UAt%2bRaMATB9aA%3d%3d) |
+| **ARM64** | `153.0.4234.48` | 200.51 MB | `c761728cfea077e5...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3b082131-7389-4eea-8376-cc4b2a65edd1?P1=1790710039&P2=404&P3=2&P4=bvXiUzqWzwEPmw2L%2fTa%2f2oCg6%2fmKqBHIWzQRfU8TdqFUIqWeAbwKLcmaX2mPocmsrhVLTJ7VVYtn6MHTuUbRZw%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
