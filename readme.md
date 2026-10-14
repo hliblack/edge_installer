@@ -92,7 +92,7 @@ f7ae8f0eff998b8979e1e0cc401a1c7dc14e81da3648586790e0f67afa7ecf42  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `157.0.4336.0` | 176.79 MB | `7706234cab76d004...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0de07f83-4d1c-4288-8669-70c73804c851?P1=1792516733&P2=404&P3=2&P4=L5YmZVwArgIIR84n2jnLmaxRWYjqMROLSMhGTmVKorlpYmT%2bX6gbBVBti9FQXoskbTrjUcJ2jmp0ftOTfHYDWQ%3d%3d) |
+| **x86** | `157.0.4337.0` | 175.65 MB | `cc738bd77b8b7d89...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f66e608a-f776-4fd7-857e-6c84ca608829?P1=1792546218&P2=404&P3=2&P4=TxJ7cwkkDS0SxSXCPLit7YQ5n1pey2CkSQMO%2fhJ%2fnMGMqU2QeBTmaE1G36KAXYvd%2brJldUPPD7tyoo3i%2fhlWNw%3d%3d) |
 | **x64** | `157.0.4337.0` | 198.79 MB | `dad782601e50faa3...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09aaafc8-0118-48e4-a3ee-3b63a238a580?P1=1792534105&P2=404&P3=2&P4=XDiz5NiF4W549Idxk6tLzoNRSVf0JTBLL2gRzFWfUWs1Gv91JIAVq3OfV7Z120jgAlOxoJN5mwggkfiNAOTgWg%3d%3d) |
 | **ARM64** | `157.0.4336.0` | 201.98 MB | `7391cdd8f4baa7a2...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6792ea5a-c157-40fe-83c5-6e384c736b57?P1=1792516733&P2=404&P3=2&P4=jUYT982pPF4heefDizqutGYMrApup2pbBTFtk3x8GPKw6o1sPYNVmsg5aAQ1%2bhg%2fRoV%2fjehsAPwLt2KrHE6rcQ%3d%3d) |
 
@@ -100,7 +100,7 @@ f7ae8f0eff998b8979e1e0cc401a1c7dc14e81da3648586790e0f67afa7ecf42  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-7706234cab76d00431685382667ad30455fd5a52c42982df2542c466a9a73b48  MicrosoftEdge_X86_157.0.4336.0.exe
+cc738bd77b8b7d89cec073815623b34bf313a438934910a6e2b0a7811021a047  MicrosoftEdge_X86_157.0.4337.0.exe
 dad782601e50faa35ff482b2c1d259f2cc1194205365f84fec88b53b3b152bed  MicrosoftEdge_X64_157.0.4337.0.exe
 7391cdd8f4baa7a247c70a26c53ee658f8d173f58092c853fda4a5eca6d60893  MicrosoftEdge_ARM64_157.0.4336.0.exe
 ```
