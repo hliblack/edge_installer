@@ -93,16 +93,16 @@ a8d40951a823e3db3cfa24fdaa5bf9e9ea39266ea2fe18a71879af8810066eb5  MicrosoftEdge_
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
 | **x86** | `158.0.4350.0` | 176.69 MB | `46ba42d706f88a09...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0a95c574-170b-4cb1-b65a-ba24223ff60c?P1=1793064307&P2=404&P3=2&P4=VwFiw8XPYPz9Uv4PgZXQGx9SOgPbeMmEfjE52cDBBQNHMUQ%2bFsIyx3iHUHN5ySlsJj9ejos1LchsCT1snkJh2Q%3d%3d) |
-| **x64** | `158.0.4349.0` | 199.2 MB | `e81c1aae0921f8b5...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/532b3ed9-5d3d-4e6d-9015-ae217ef0445a?P1=1793037935&P2=404&P3=2&P4=cuwCY0M5EfD4TK86hDODiwJMZcthrpo5MEqnvHlhzB2ciMteMHnh70Se%2fNF7ESy%2buPc2jgyGpiXeOX9Az66Tig%3d%3d) |
-| **ARM64** | `158.0.4349.0` | 202.42 MB | `9f663c6a3998b1df...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/98e8eaa5-523a-48f2-bd8e-ebf067bbb61c?P1=1793037936&P2=404&P3=2&P4=U7nRTiTUyuugeEoCtYR4VZJhxU8sBXGHTXRK578N7TtpkjK9dABvZXvIIakDX%2bh3RHO3nUbO3r%2bNTJhG3dVHeA%3d%3d) |
+| **x64** | `158.0.4350.0` | 199.43 MB | `289b3efe59f5ecf8...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a2f2c572-37d8-45c2-af50-d26490da6b63?P1=1793084266&P2=404&P3=2&P4=DVQnYUvgv4Zrq5BeK2AjLXrOb9s64yXvqOhs%2fwhhKFvF2pQOincvjacBBtjLX6CsYkasGKmfD%2fWvW6WErtu0wQ%3d%3d) |
+| **ARM64** | `158.0.4350.0` | 202.31 MB | `86408c9d89c35fe9...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7e337744-5f96-42fe-b76b-e1470cc6e224?P1=1793084267&P2=404&P3=2&P4=aqPFNmZ271MYQhsjHM0uefN8tX%2fXplUQ%2f%2fIYcMn7GwGe3R8uHk8kJsqI257S%2fjVoruzEzyx6V1IZECpE8ncIHg%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
 46ba42d706f88a09768f4c1cf54795ce98f3b1c661c1b6900fa000e7435b6bf3  MicrosoftEdge_X86_158.0.4350.0.exe
-e81c1aae0921f8b5429b59ff1b104b6b9a9915b8da86c6727542d5e0a7012611  MicrosoftEdge_X64_158.0.4349.0.exe
-9f663c6a3998b1df459d6fc5f3d8cc8dcf2768359a911d49da22bff9f2f45540  MicrosoftEdge_ARM64_158.0.4349.0.exe
+289b3efe59f5ecf89426460a26540eaeaf5e76b3b2d896cb43cb16d7c1006d3a  MicrosoftEdge_X64_158.0.4350.0.exe
+86408c9d89c35fe9e5d09455e663f1a53ac20f8df73a121ddf87029e4c65cc95  MicrosoftEdge_ARM64_158.0.4350.0.exe
 ```
 
 </details>
