@@ -92,7 +92,7 @@ a8d40951a823e3db3cfa24fdaa5bf9e9ea39266ea2fe18a71879af8810066eb5  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `158.0.4349.0` | 176.49 MB | `583e49cc58ead0f7...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff4a01b1-f2ee-4c91-a4c5-9b094cf119c4?P1=1793037935&P2=404&P3=2&P4=cH1fGZAd6oCIn%2fg2kcrf4dzSLNajxbRCPYviiXvSCGoXF49PAgisrCIQW8f%2broCtf3NLALnYvALgwXqERKS7KA%3d%3d) |
+| **x86** | `158.0.4350.0` | 176.69 MB | `46ba42d706f88a09...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0a95c574-170b-4cb1-b65a-ba24223ff60c?P1=1793064307&P2=404&P3=2&P4=VwFiw8XPYPz9Uv4PgZXQGx9SOgPbeMmEfjE52cDBBQNHMUQ%2bFsIyx3iHUHN5ySlsJj9ejos1LchsCT1snkJh2Q%3d%3d) |
 | **x64** | `158.0.4349.0` | 199.2 MB | `e81c1aae0921f8b5...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/532b3ed9-5d3d-4e6d-9015-ae217ef0445a?P1=1793037935&P2=404&P3=2&P4=cuwCY0M5EfD4TK86hDODiwJMZcthrpo5MEqnvHlhzB2ciMteMHnh70Se%2fNF7ESy%2buPc2jgyGpiXeOX9Az66Tig%3d%3d) |
 | **ARM64** | `158.0.4349.0` | 202.42 MB | `9f663c6a3998b1df...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/98e8eaa5-523a-48f2-bd8e-ebf067bbb61c?P1=1793037936&P2=404&P3=2&P4=U7nRTiTUyuugeEoCtYR4VZJhxU8sBXGHTXRK578N7TtpkjK9dABvZXvIIakDX%2bh3RHO3nUbO3r%2bNTJhG3dVHeA%3d%3d) |
 
@@ -100,7 +100,7 @@ a8d40951a823e3db3cfa24fdaa5bf9e9ea39266ea2fe18a71879af8810066eb5  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-583e49cc58ead0f71cd779bacc775822144b235a30cecb97e6f3fc53c34fb2e5  MicrosoftEdge_X86_158.0.4349.0.exe
+46ba42d706f88a09768f4c1cf54795ce98f3b1c661c1b6900fa000e7435b6bf3  MicrosoftEdge_X86_158.0.4350.0.exe
 e81c1aae0921f8b5429b59ff1b104b6b9a9915b8da86c6727542d5e0a7012611  MicrosoftEdge_X64_158.0.4349.0.exe
 9f663c6a3998b1df459d6fc5f3d8cc8dcf2768359a911d49da22bff9f2f45540  MicrosoftEdge_ARM64_158.0.4349.0.exe
 ```
